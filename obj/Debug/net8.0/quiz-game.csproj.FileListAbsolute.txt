@@ -1,0 +1,15 @@
+F:\cs\quiz-game\bin\Debug\net8.0\quiz-game.exe
+F:\cs\quiz-game\bin\Debug\net8.0\quiz-game.deps.json
+F:\cs\quiz-game\bin\Debug\net8.0\quiz-game.runtimeconfig.json
+F:\cs\quiz-game\bin\Debug\net8.0\quiz-game.dll
+F:\cs\quiz-game\bin\Debug\net8.0\quiz-game.pdb
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.csproj.AssemblyReference.cache
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.GeneratedMSBuildEditorConfig.editorconfig
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.AssemblyInfoInputs.cache
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.AssemblyInfo.cs
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.csproj.CoreCompileInputs.cache
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.dll
+F:\cs\quiz-game\obj\Debug\net8.0\refint\quiz-game.dll
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.pdb
+F:\cs\quiz-game\obj\Debug\net8.0\quiz-game.genruntimeconfig.cache
+F:\cs\quiz-game\obj\Debug\net8.0\ref\quiz-game.dll
